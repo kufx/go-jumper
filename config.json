@@ -1,12 +1,7 @@
 {
     "sitename":"酷小呵博客",
     "allowlist": [
-        "kuhehe.top"
         "www.kuhehe.top"
-        "kuhehe.github.io"
-        "kuhehehe.work"
-        "flowus.cn"
-        "localhost:4000"
     ],
     "backTo": {
         "url": "https://www.kuhehe.top/",
