@@ -1,10 +1,10 @@
 {
-    "sitename":"pai233の小站",
+    "sitename":"酷小呵博客",
     "allowlist": [
-        "pai233.top"
+        "kuhehe.top"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https://www.kuhehe.top/",
+        "sitename": "酷小呵博客"
     }
 }
