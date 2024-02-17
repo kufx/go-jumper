@@ -1,10 +1,10 @@
 {
     "sitename":"酷小呵博客",
     "allowlist": [
-        "www.kuhehe.top"
+        "kuhehe.github.io"
     ],
     "backTo": {
-        "url": "https://www.kuhehe.top/",
+        "url": "https://kuhehe.github.io/",
         "sitename": "酷小呵博客"
     }
 }
